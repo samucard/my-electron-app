@@ -1,6 +1,6 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "tuo-username",
-        "repo": "nome-repo"
+        "owner": "samucard",
+        "repo": "my-electron-app"
       }
     ],
     "files": [

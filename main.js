@@ -5,6 +5,7 @@ const { autoUpdater } = require("electron-updater");
 
 autoUpdater.checkForUpdatesAndNotify();
 
+
 // Puoi anche gestire gli eventi:
 autoUpdater.on("update-available", () => {
   console.log("Aggiornamento disponibile.");

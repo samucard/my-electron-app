@@ -1,10 +1,5 @@
-# Dipendenze e build
 node_modules/
 frontend/dist/
 dist/
-
-# File di log
 *.log
-
-# Altri file temporanei
 .DS_Store
