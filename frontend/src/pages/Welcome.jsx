@@ -18,7 +18,7 @@ const Welcome = () => {
       }}
     >
       <Typography variant="h3" color="primary" gutterBottom>
-        Ciao e Benvenuto nella mia App! 🚀
+        Questa è la mia App! 🚀
       </Typography>
       <Typography
         variant="body1"
