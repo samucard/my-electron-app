@@ -1,6 +1,6 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -50,6 +50,8 @@
     "define-data-property": "^1.1.4",
     "define-properties": "^1.2.1",
     "detect-node": "^2.1.0",
+    "electron-log": "^5.3.1",
+    "electron-updater": "^6.3.9",
     "end-of-stream": "^1.4.4",
     "env-paths": "^2.2.1",
     "es-define-property": "^1.0.1",
@@ -102,8 +104,8 @@
   "devDependencies": {
     "concurrently": "^9.1.2",
     "cross-env": "^7.0.3",
-    "electron-builder": "^25.1.8",
-    "electron": "^34.3.0"
+    "electron": "^34.3.0",
+    "electron-builder": "^25.1.8"
   },
   "keywords": [],
   "author": "",
